@@ -1,0 +1,20 @@
+.states {
+  fill: #293950;
+}
+
+.states :hover {
+  fill: orange;
+}
+
+.state-boundary {
+  fill: solid;
+  stroke: #00F;
+  width:3px;
+  pointer-events: none;
+}
+
+svg{
+    border: 1px solid gray;
+}
+
+
